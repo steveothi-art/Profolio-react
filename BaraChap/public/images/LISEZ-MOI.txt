@@ -1,0 +1,4 @@
+Mets ici toutes tes images (.png / .jpeg) :
+developpeur.png, developpeur-de-logiciels.png, developpement-web.png, application.png,
+reseau-mondial.png, panier.jpeg, reglage.png, outil-cle.png, linternet.png, epingle.png,
+offre-demploi.png, utilisateur.png, gestion-dentreprise.png  (renomme "gestion-dentreprise (1).png")
