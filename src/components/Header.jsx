@@ -8,7 +8,7 @@ export default function Header() {
     <>
       <header className="header glass">
         <a href="#accueil" className="brand" aria-label="Accueil Maewens Portfolio">
-          <span className="brand-mark"><img src="/maewen'S.png" alt="Maewens" /></span>
+          <span className="brand-mark"><img src={`${import.meta.env.BASE_URL}images/maewen'S.png`} alt="Maewens" /></span>
           <span><strong>Maewens</strong><small>portfolio</small></span>
         </a>
 
